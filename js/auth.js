@@ -3,7 +3,7 @@ export function PasswordScreen() {
     return `
         <div class="login-screen">
 
-            <h1>❤️ Our Place</h1>
+            <h1>Welcome</h1>
 
             <h2>Enter password</h2>
 
