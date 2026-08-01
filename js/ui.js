@@ -8,7 +8,7 @@ export function MainLayout() {
 
             <div class="logo">
 
-                <h1>❤️ Our Place</h1>
+                <h1>Our Place</h1>
 
                 <p>Built with love.</p>
 
